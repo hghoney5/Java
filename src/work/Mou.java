@@ -31,7 +31,7 @@ repaint();
 }
 public void mousePressed(MouseEvent me)
 {
-str="Mouse Pressed";
+str="Mouse Clicked";
 repaint();
 }
 public void mouseReleased(MouseEvent me)
