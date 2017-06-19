@@ -6,7 +6,7 @@ import java.awt.event.*;
 public class buttonsUsingLoop {
 	
 	String[] buttons = {"btn0","btn1","btn2","btn3","btn4","btn5","btn6","btn7","btn8","btn9","btnDecimal","btnPlusMinus"};
-	
+	Label objLabel = new Label("My Label");
 	
 	public buttonsUsingLoop() {
 		Frame frame = new Frame("Buttons Using Loop");
